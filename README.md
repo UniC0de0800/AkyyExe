@@ -4,7 +4,7 @@ module main
 main :: func(): void {
   ethan :: aboutMe = {
     pronouns: ["He", "Him"],
-    languages: ["Python", "Batch", "HTML", "CSS", JavaScript"],
+    languages: ["Python", "Batch", "HTML", "CSS", "JavaScript"],
     future languages: ["Java", "C", "C#"],
     hobbies: ["Coding", "Listen to músic"],
     funFact: ["Coca-Cola was founded on January 29, 1892."],
